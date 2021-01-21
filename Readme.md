@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Altair  Akylbekov](https://up.htmlacademy.ru/htmlcss/30/user/1687651).
-* Наставник: [Евгения Зорина].
+* Наставник: [Евгения Зорина].(https://htmlacademy.ru/profile/sanguis)
 
 ---
 
